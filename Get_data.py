@@ -1,6 +1,6 @@
 """
 DS25000
-Rishi
+Rishi Kamtam
 
 This code gets all of our raw data into a CSV
 """
