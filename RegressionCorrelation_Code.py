@@ -1,6 +1,6 @@
 """
 DS2500
-Michael, Rishi, Jeff
+Rishi
 4/12/24
 
 Final Project Code
