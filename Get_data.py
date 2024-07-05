@@ -1,6 +1,6 @@
 """
 DS25000
-Jeff, Michael, Rishi
+Rishi
 
 This code gets all of our raw data into a CSV
 """
