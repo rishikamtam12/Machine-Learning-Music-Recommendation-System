@@ -1,6 +1,6 @@
 """
 DS2500
-Rishi
+Rishi Kamtam
 4/12/24
 
 Final Project Code
